@@ -1,0 +1,72 @@
+# Carpeta binaria y de salida
+bin/
+obj/
+
+# Archivos de configuración
+*.user
+*.suo
+*.cache
+*.log
+*.vscode/
+
+# Carpeta de dependencias
+packages/
+
+# Carpeta de resultados de pruebas
+TestResults/
+
+# Carpeta de publicación
+publish/
+
+# Carpeta de resumen de cobertura de código
+coverage/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos de configuración locales
+*.dll.config.user
+*.exe.config.user
+
+# Archivos de Visual Studio
+.vs2019/
+.vscode/
+*.sln.docstates
+
+# Archivos de NuGet
+*.nuget.props
+*.nuget.targets
+
+# Carpeta de salida de Rider
+.idea/
+
+# Archivo de configuración de Rider
+*.sln.iml
+
+# Archivo de configuración de Rider
+.rider/
+
+# Carpeta de caché de Rider
+.idea/
+
+# Archivos de registro y errores
+*.log
+*.npm-debug.log*
+*.yarn-error.log*
+npm-debug.log*
+yarn-error.log*
+
+# Carpeta de artefactos de compilación y publicación
+artifacts/
+
+# Carpeta de respaldo de código
+backup/
+
+# Carpeta de nodos_modules
+node_modules/
+
+# Carpeta de usuario de Visual Studio
+.vs2019/
+.vscode/
